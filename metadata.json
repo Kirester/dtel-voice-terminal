@@ -1,0 +1,7 @@
+{
+  "name": "Dtel Voice Terminal",
+  "description": "A cyberpunk-themed voice terminal prototype using dTelecom AI Stack and Gemini.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
